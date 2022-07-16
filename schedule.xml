@@ -11,7 +11,7 @@
   </conference>
   <day index="1" date="2022-07-22" start="2022-07-22T07:00:00.000+02:00" end="2022-07-23T03:00:00.000+02:00">
     <room name="Village:HackTheHealth">
-      <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_12669eacd18b5f76b3b932ee22d133ce&lt;/url>">
+      <event id="&lt;url>https://wiki.mch2022.org/Session:_Capture_The_Flag&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_12669eacd18b5f76b3b932ee22d133ce</url>
         <date>2022-07-22T08:00:00.000+02:00</date>
         <start>08:00</start>
@@ -189,7 +189,7 @@
         <url>https://wiki.mch2022.org/Session:Introduction_to_GraphQL_hacking#_f82bc79fad7539b9c91165f28de1b83e</url>
         <date>2022-07-22T19:00:00.000+02:00</date>
         <start>19:00</start>
-        <duration>00:00</duration>
+        <duration>00:40</duration>
         <room>Village:Unlock The City</room>
         <title>Session:Introduction to GraphQL hacking</title>
         <url>https://wiki.mch2022.org/Session:Introduction_to_GraphQL_hacking#_f82bc79fad7539b9c91165f28de1b83e</url>
