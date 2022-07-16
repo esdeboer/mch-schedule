@@ -11,7 +11,7 @@
   </conference>
   <day index="1" date="2022-07-22" start="2022-07-22T07:00:00.000+02:00" end="2022-07-23T03:00:00.000+02:00">
     <room name="Village:HackTheHealth">
-      <event id="&lt;url>https://wiki.mch2022.org/Session:_Capture_The_Flag&lt;/url>">
+      <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_12669eacd18b5f76b3b932ee22d133ce&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_12669eacd18b5f76b3b932ee22d133ce</url>
         <date>2022-07-22T08:00:00.000+02:00</date>
         <start>08:00</start>
@@ -19,6 +19,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Capture The Flag - CTF Day 1</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_12669eacd18b5f76b3b932ee22d133ce</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_12669eacd18b5f76b3b932ee22d133ce</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_7e6bea4c166a738214f7941ac2786dfd&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_7e6bea4c166a738214f7941ac2786dfd</url>
@@ -28,6 +29,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Device Lab - Device Lab Day One</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_7e6bea4c166a738214f7941ac2786dfd</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_7e6bea4c166a738214f7941ac2786dfd</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_935d666e4651376ea9e03930ad983778&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_935d666e4651376ea9e03930ad983778</url>
@@ -37,6 +39,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Capture The Flag - CTF Support Day 1 in HackTheHealth Tent</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_935d666e4651376ea9e03930ad983778</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_935d666e4651376ea9e03930ad983778</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_7f06376523839390d09e8377798c2f89&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_7f06376523839390d09e8377798c2f89</url>
@@ -46,6 +49,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Games - Regulatory Bingo</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_7f06376523839390d09e8377798c2f89</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_7f06376523839390d09e8377798c2f89</abstract>
       </event>
     </room>
     <room name="May Contain Books">
@@ -57,6 +61,7 @@
         <room>May Contain Books</room>
         <title>Session:E-books, 1 library to store them all. let's share - share all ebooks</title>
         <url>https://wiki.mch2022.org/Session:E-books,_1_library_to_store_them_all._let%27s_share#_9182d2af10313919934c37e88e6961f4</url>
+        <abstract>https://wiki.mch2022.org/Session:E-books,_1_library_to_store_them_all._let%27s_share#_9182d2af10313919934c37e88e6961f4</abstract>
       </event>
     </room>
     <room name="Village:atypical">
@@ -68,6 +73,7 @@
         <room>Village:atypical</room>
         <title>Session:HashiStack (Nomad, Consul, Vault)</title>
         <url>https://wiki.mch2022.org/Session:HashiStack_(Nomad,_Consul,_Vault)#_98dbcc96505378a0e2f7065043db786e</url>
+        <abstract>https://wiki.mch2022.org/Session:HashiStack_(Nomad,_Consul,_Vault)#_98dbcc96505378a0e2f7065043db786e</abstract>
       </event>
     </room>
     <room name="Village:FoodHackingBase">
@@ -79,6 +85,7 @@
         <room>Village:FoodHackingBase</room>
         <title>Session:FHB Soybean Fermentation</title>
         <url>https://wiki.mch2022.org/Session:FHB_Soybean_Fermentation#_c8419fc3851d3e66a078b0a69472b2e5</url>
+        <abstract>https://wiki.mch2022.org/Session:FHB_Soybean_Fermentation#_c8419fc3851d3e66a078b0a69472b2e5</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:FHB:Seitan_Making_101#_bb38ffbaa28f3ef171beecec778dcdff&lt;/url>">
         <url>https://wiki.mch2022.org/Session:FHB:Seitan_Making_101#_bb38ffbaa28f3ef171beecec778dcdff</url>
@@ -88,6 +95,7 @@
         <room>Village:FoodHackingBase</room>
         <title>Session:FHB:Seitan Making 101</title>
         <url>https://wiki.mch2022.org/Session:FHB:Seitan_Making_101#_bb38ffbaa28f3ef171beecec778dcdff</url>
+        <abstract>https://wiki.mch2022.org/Session:FHB:Seitan_Making_101#_bb38ffbaa28f3ef171beecec778dcdff</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2f16d8a33348588bec2dbec37bab7532&lt;/url>">
         <url>https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2f16d8a33348588bec2dbec37bab7532</url>
@@ -97,6 +105,7 @@
         <room>Village:FoodHackingBase</room>
         <title>Session:FHB:Cheese Rendezvous</title>
         <url>https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2f16d8a33348588bec2dbec37bab7532</url>
+        <abstract>https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2f16d8a33348588bec2dbec37bab7532</abstract>
       </event>
     </room>
     <room name="Unknown">
@@ -108,6 +117,7 @@
         <room>Unknown</room>
         <title>Session:tRaining Cats and Dogs</title>
         <url>https://wiki.mch2022.org/Session:tRaining_Cats_and_Dogs#_67bb3cd26407a06c749565772e191ebc</url>
+        <abstract>https://wiki.mch2022.org/Session:tRaining_Cats_and_Dogs#_67bb3cd26407a06c749565772e191ebc</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:2m_Foxhunting#_de4f74d5b88b0aa641f5cee182fd685f&lt;/url>">
         <url>https://wiki.mch2022.org/Session:2m_Foxhunting#_de4f74d5b88b0aa641f5cee182fd685f</url>
@@ -117,6 +127,7 @@
         <room>Unknown</room>
         <title>Session:2m Foxhunting - Foxhunting Day 1</title>
         <url>https://wiki.mch2022.org/Session:2m_Foxhunting#_de4f74d5b88b0aa641f5cee182fd685f</url>
+        <abstract>https://wiki.mch2022.org/Session:2m_Foxhunting#_de4f74d5b88b0aa641f5cee182fd685f</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Defending_and_attacking_Kubernetes#_0901e62d6521c7bbccef9ef646c4eae9&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Defending_and_attacking_Kubernetes#_0901e62d6521c7bbccef9ef646c4eae9</url>
@@ -126,6 +137,7 @@
         <room>Unknown</room>
         <title>Session:Defending and attacking Kubernetes</title>
         <url>https://wiki.mch2022.org/Session:Defending_and_attacking_Kubernetes#_0901e62d6521c7bbccef9ef646c4eae9</url>
+        <abstract>https://wiki.mch2022.org/Session:Defending_and_attacking_Kubernetes#_0901e62d6521c7bbccef9ef646c4eae9</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Can_you_stage_dive_in_the_metaverse:_A_digital_ethics_discussion_on_rules_in_a_digital_sphere#_5ba69fc4c6b93195f150677c98e3a556&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Can_you_stage_dive_in_the_metaverse:_A_digital_ethics_discussion_on_rules_in_a_digital_sphere#_5ba69fc4c6b93195f150677c98e3a556</url>
@@ -135,6 +147,7 @@
         <room>Unknown</room>
         <title>Session:Can you stage dive in the metaverse: A digital ethics discussion on rules in a digital sphere</title>
         <url>https://wiki.mch2022.org/Session:Can_you_stage_dive_in_the_metaverse:_A_digital_ethics_discussion_on_rules_in_a_digital_sphere#_5ba69fc4c6b93195f150677c98e3a556</url>
+        <abstract>https://wiki.mch2022.org/Session:Can_you_stage_dive_in_the_metaverse:_A_digital_ethics_discussion_on_rules_in_a_digital_sphere#_5ba69fc4c6b93195f150677c98e3a556</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:IC2_hacking#_2e1d6f61b15819f93370e1746830d584&lt;/url>">
         <url>https://wiki.mch2022.org/Session:IC2_hacking#_2e1d6f61b15819f93370e1746830d584</url>
@@ -144,6 +157,7 @@
         <room>Unknown</room>
         <title>Session:IC2 hacking</title>
         <url>https://wiki.mch2022.org/Session:IC2_hacking#_2e1d6f61b15819f93370e1746830d584</url>
+        <abstract>https://wiki.mch2022.org/Session:IC2_hacking#_2e1d6f61b15819f93370e1746830d584</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:UART_Hacking#_04af9141d876d51f3da72dcafc0e05d5&lt;/url>">
         <url>https://wiki.mch2022.org/Session:UART_Hacking#_04af9141d876d51f3da72dcafc0e05d5</url>
@@ -153,6 +167,7 @@
         <room>Unknown</room>
         <title>Session:UART Hacking</title>
         <url>https://wiki.mch2022.org/Session:UART_Hacking#_04af9141d876d51f3da72dcafc0e05d5</url>
+        <abstract>https://wiki.mch2022.org/Session:UART_Hacking#_04af9141d876d51f3da72dcafc0e05d5</abstract>
       </event>
     </room>
     <room name="Village:80s Party">
@@ -164,6 +179,7 @@
         <room>Village:80s Party</room>
         <title>Session:80s Party</title>
         <url>https://wiki.mch2022.org/Session:80s_Party#_5fd8187d880c232f1226b2b7b771050c</url>
+        <abstract>https://wiki.mch2022.org/Session:80s_Party#_5fd8187d880c232f1226b2b7b771050c</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_c2b8a2e0ea1006e8be6ad8cc759363a9&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_c2b8a2e0ea1006e8be6ad8cc759363a9</url>
@@ -173,6 +189,7 @@
         <room>Village:80s Party</room>
         <title>Session:Anti-surveillance makeup tutorial - How to hamper facial recognition software and still look awesome!</title>
         <url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_c2b8a2e0ea1006e8be6ad8cc759363a9</url>
+        <abstract>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_c2b8a2e0ea1006e8be6ad8cc759363a9</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Black_box_Cocktails#_56155d6d203a401d18d5f5c2fafe3a52&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Black_box_Cocktails#_56155d6d203a401d18d5f5c2fafe3a52</url>
@@ -182,6 +199,7 @@
         <room>Village:80s Party</room>
         <title>Session:Black box Cocktails</title>
         <url>https://wiki.mch2022.org/Session:Black_box_Cocktails#_56155d6d203a401d18d5f5c2fafe3a52</url>
+        <abstract>https://wiki.mch2022.org/Session:Black_box_Cocktails#_56155d6d203a401d18d5f5c2fafe3a52</abstract>
       </event>
     </room>
     <room name="Village:Unlock The City">
@@ -189,10 +207,11 @@
         <url>https://wiki.mch2022.org/Session:Introduction_to_GraphQL_hacking#_f82bc79fad7539b9c91165f28de1b83e</url>
         <date>2022-07-22T19:00:00.000+02:00</date>
         <start>19:00</start>
-        <duration>00:40</duration>
+        <duration>00:00</duration>
         <room>Village:Unlock The City</room>
         <title>Session:Introduction to GraphQL hacking</title>
         <url>https://wiki.mch2022.org/Session:Introduction_to_GraphQL_hacking#_f82bc79fad7539b9c91165f28de1b83e</url>
+        <abstract>https://wiki.mch2022.org/Session:Introduction_to_GraphQL_hacking#_f82bc79fad7539b9c91165f28de1b83e</abstract>
       </event>
     </room>
   </day>
@@ -206,6 +225,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Capture The Flag - CTF Day 2</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_567f0032370854d3bc182e26c13dcf88</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_567f0032370854d3bc182e26c13dcf88</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_35c3d1ab3370a1c7d818adc78b71ab0b&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_35c3d1ab3370a1c7d818adc78b71ab0b</url>
@@ -215,6 +235,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Device Lab - Device Lab Day Two</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_35c3d1ab3370a1c7d818adc78b71ab0b</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_35c3d1ab3370a1c7d818adc78b71ab0b</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_85a2a14484b095990e23e99180fa1d08&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_85a2a14484b095990e23e99180fa1d08</url>
@@ -224,6 +245,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Capture The Flag - CTF Support Day 2 in HackTheHealth Tent</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_85a2a14484b095990e23e99180fa1d08</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_85a2a14484b095990e23e99180fa1d08</abstract>
       </event>
     </room>
     <room name="Village:80s Party">
@@ -235,6 +257,7 @@
         <room>Village:80s Party</room>
         <title>Session:athlETHICS sports event</title>
         <url>https://wiki.mch2022.org/Session:athlETHICS_sports_event#_8faf68f77d55c481e2ba1f1891103290</url>
+        <abstract>https://wiki.mch2022.org/Session:athlETHICS_sports_event#_8faf68f77d55c481e2ba1f1891103290</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Ethical_Dialogue#_3b96981f6b781ebc5328ad946cb5ec69&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Ethical_Dialogue#_3b96981f6b781ebc5328ad946cb5ec69</url>
@@ -244,6 +267,7 @@
         <room>Village:80s Party</room>
         <title>Session:Ethical Dialogue</title>
         <url>https://wiki.mch2022.org/Session:Ethical_Dialogue#_3b96981f6b781ebc5328ad946cb5ec69</url>
+        <abstract>https://wiki.mch2022.org/Session:Ethical_Dialogue#_3b96981f6b781ebc5328ad946cb5ec69</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:The_Ethics_Book_Club#_19198dc74adb87475633b2f82fd2048c&lt;/url>">
         <url>https://wiki.mch2022.org/Session:The_Ethics_Book_Club#_19198dc74adb87475633b2f82fd2048c</url>
@@ -253,6 +277,7 @@
         <room>Village:80s Party</room>
         <title>Session:The Ethics Book Club</title>
         <url>https://wiki.mch2022.org/Session:The_Ethics_Book_Club#_19198dc74adb87475633b2f82fd2048c</url>
+        <abstract>https://wiki.mch2022.org/Session:The_Ethics_Book_Club#_19198dc74adb87475633b2f82fd2048c</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:80s_Party#_98e335fb6a4401619c555b0d396e6579&lt;/url>">
         <url>https://wiki.mch2022.org/Session:80s_Party#_98e335fb6a4401619c555b0d396e6579</url>
@@ -262,6 +287,7 @@
         <room>Village:80s Party</room>
         <title>Session:80s Party</title>
         <url>https://wiki.mch2022.org/Session:80s_Party#_98e335fb6a4401619c555b0d396e6579</url>
+        <abstract>https://wiki.mch2022.org/Session:80s_Party#_98e335fb6a4401619c555b0d396e6579</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_13de4849dc21e243cbde4947a8ebc91a&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_13de4849dc21e243cbde4947a8ebc91a</url>
@@ -271,6 +297,7 @@
         <room>Village:80s Party</room>
         <title>Session:Anti-surveillance makeup tutorial - How to hamper facial recognition software and still look awesome!</title>
         <url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_13de4849dc21e243cbde4947a8ebc91a</url>
+        <abstract>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_13de4849dc21e243cbde4947a8ebc91a</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:The_Only_Way_is_Ethics#_9e422e4c5cf8920d887c7650311edd0e&lt;/url>">
         <url>https://wiki.mch2022.org/Session:The_Only_Way_is_Ethics#_9e422e4c5cf8920d887c7650311edd0e</url>
@@ -280,6 +307,7 @@
         <room>Village:80s Party</room>
         <title>Session:The Only Way is Ethics</title>
         <url>https://wiki.mch2022.org/Session:The_Only_Way_is_Ethics#_9e422e4c5cf8920d887c7650311edd0e</url>
+        <abstract>https://wiki.mch2022.org/Session:The_Only_Way_is_Ethics#_9e422e4c5cf8920d887c7650311edd0e</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:CODED_BIAS#_e8f4f680b75f99f60fb337e4d1a4e912&lt;/url>">
         <url>https://wiki.mch2022.org/Session:CODED_BIAS#_e8f4f680b75f99f60fb337e4d1a4e912</url>
@@ -289,6 +317,7 @@
         <room>Village:80s Party</room>
         <title>Session:CODED BIAS</title>
         <url>https://wiki.mch2022.org/Session:CODED_BIAS#_e8f4f680b75f99f60fb337e4d1a4e912</url>
+        <abstract>https://wiki.mch2022.org/Session:CODED_BIAS#_e8f4f680b75f99f60fb337e4d1a4e912</abstract>
       </event>
     </room>
     <room name="Village:Area42">
@@ -300,6 +329,7 @@
         <room>Village:Area42</room>
         <title>Session:Drinking coffee and measure the power of your laser - Saturday</title>
         <url>https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_f5547d7d1bd71f5369c7d0b8f1a94384</url>
+        <abstract>https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_f5547d7d1bd71f5369c7d0b8f1a94384</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_1735230858a58caefccbc9f4039a6bef&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_1735230858a58caefccbc9f4039a6bef</url>
@@ -309,6 +339,7 @@
         <room>Village:Area42</room>
         <title>Session:Drinking coffee and measure the power of your laser - Sunday</title>
         <url>https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_1735230858a58caefccbc9f4039a6bef</url>
+        <abstract>https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_1735230858a58caefccbc9f4039a6bef</abstract>
       </event>
     </room>
     <room name="Village:Unlock The City">
@@ -320,6 +351,7 @@
         <room>Village:Unlock The City</room>
         <title>Session:Reverse engineering for beginners workshop</title>
         <url>https://wiki.mch2022.org/Session:Reverse_engineering_for_beginners_workshop#_b21ef491869a48e8be6f9a66bff4c62c</url>
+        <abstract>https://wiki.mch2022.org/Session:Reverse_engineering_for_beginners_workshop#_b21ef491869a48e8be6f9a66bff4c62c</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:The_history_and_future_of_digital_identity_-_An_Identity_R/Evolution#_89b2fd89c3165c4229debabd49ec95ab&lt;/url>">
         <url>https://wiki.mch2022.org/Session:The_history_and_future_of_digital_identity_-_An_Identity_R/Evolution#_89b2fd89c3165c4229debabd49ec95ab</url>
@@ -329,6 +361,7 @@
         <room>Village:Unlock The City</room>
         <title>Session:The history and future of digital identity - An Identity R/Evolution</title>
         <url>https://wiki.mch2022.org/Session:The_history_and_future_of_digital_identity_-_An_Identity_R/Evolution#_89b2fd89c3165c4229debabd49ec95ab</url>
+        <abstract>https://wiki.mch2022.org/Session:The_history_and_future_of_digital_identity_-_An_Identity_R/Evolution#_89b2fd89c3165c4229debabd49ec95ab</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Rust_Workshop#_52a8d601a90b897246008ae7a07f0944&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Rust_Workshop#_52a8d601a90b897246008ae7a07f0944</url>
@@ -338,6 +371,7 @@
         <room>Village:Unlock The City</room>
         <title>Session:Rust Workshop</title>
         <url>https://wiki.mch2022.org/Session:Rust_Workshop#_52a8d601a90b897246008ae7a07f0944</url>
+        <abstract>https://wiki.mch2022.org/Session:Rust_Workshop#_52a8d601a90b897246008ae7a07f0944</abstract>
       </event>
     </room>
     <room name="Village:HSNL">
@@ -349,6 +383,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - Funding 101: NLnet and Next Generation Internet</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_e1302ad3327e75f16e7ae3429968f2f8</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_e1302ad3327e75f16e7ae3429968f2f8</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_9554957c6ab3eb7fdfb43e2a1908b076&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_9554957c6ab3eb7fdfb43e2a1908b076</url>
@@ -358,6 +393,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - Solid talk by Inrupt</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_9554957c6ab3eb7fdfb43e2a1908b076</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_9554957c6ab3eb7fdfb43e2a1908b076</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_dd78f1fdbe52551b1c210f5058115b94&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_dd78f1fdbe52551b1c210f5058115b94</url>
@@ -367,6 +403,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - Solid talk by Digita</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_dd78f1fdbe52551b1c210f5058115b94</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_dd78f1fdbe52551b1c210f5058115b94</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_142765c39b84db01ad3d27934f3a3388&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_142765c39b84db01ad3d27934f3a3388</url>
@@ -376,6 +413,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - Fighting link rot in solid data</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_142765c39b84db01ad3d27934f3a3388</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_142765c39b84db01ad3d27934f3a3388</abstract>
       </event>
     </room>
     <room name="Village:FoodHackingBase">
@@ -387,6 +425,7 @@
         <room>Village:FoodHackingBase</room>
         <title>Session:FHB:Kefir Making</title>
         <url>https://wiki.mch2022.org/Session:FHB:Kefir_Making#_8d7a5040ff2222086ead8fabc5df2aa5</url>
+        <abstract>https://wiki.mch2022.org/Session:FHB:Kefir_Making#_8d7a5040ff2222086ead8fabc5df2aa5</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:FHB:Cider_Flows#_0527d24cb3c847a9cb2aa70231687620&lt;/url>">
         <url>https://wiki.mch2022.org/Session:FHB:Cider_Flows#_0527d24cb3c847a9cb2aa70231687620</url>
@@ -396,6 +435,19 @@
         <room>Village:FoodHackingBase</room>
         <title>Session:FHB:Cider Flows</title>
         <url>https://wiki.mch2022.org/Session:FHB:Cider_Flows#_0527d24cb3c847a9cb2aa70231687620</url>
+        <abstract>https://wiki.mch2022.org/Session:FHB:Cider_Flows#_0527d24cb3c847a9cb2aa70231687620</abstract>
+      </event>
+    </room>
+    <room name="Village:SHA512">
+      <event id="&lt;url>https://wiki.mch2022.org/Session:Rooting_an_Android_phone_with_Magisk#_79b82af7d44b7d01556ff181d35cf2c1&lt;/url>">
+        <url>https://wiki.mch2022.org/Session:Rooting_an_Android_phone_with_Magisk#_79b82af7d44b7d01556ff181d35cf2c1</url>
+        <date>2022-07-23T16:00:00.000+02:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Village:SHA512</room>
+        <title>Session:Rooting an Android phone with Magisk - Phones to root are available</title>
+        <url>https://wiki.mch2022.org/Session:Rooting_an_Android_phone_with_Magisk#_79b82af7d44b7d01556ff181d35cf2c1</url>
+        <abstract>https://wiki.mch2022.org/Session:Rooting_an_Android_phone_with_Magisk#_79b82af7d44b7d01556ff181d35cf2c1</abstract>
       </event>
     </room>
     <room name="Unknown">
@@ -407,6 +459,7 @@
         <room>Unknown</room>
         <title>Session:Drinks with WICCA</title>
         <url>https://wiki.mch2022.org/Session:Drinks_with_WICCA#_7455a325321fc266ef55e086ecb28623</url>
+        <abstract>https://wiki.mch2022.org/Session:Drinks_with_WICCA#_7455a325321fc266ef55e086ecb28623</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Hot_Chocolate_Appreciation#_5dac2431b50771dde7c366e40e09a7cb&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hot_Chocolate_Appreciation#_5dac2431b50771dde7c366e40e09a7cb</url>
@@ -416,6 +469,7 @@
         <room>Unknown</room>
         <title>Session:Hot Chocolate Appreciation</title>
         <url>https://wiki.mch2022.org/Session:Hot_Chocolate_Appreciation#_5dac2431b50771dde7c366e40e09a7cb</url>
+        <abstract>https://wiki.mch2022.org/Session:Hot_Chocolate_Appreciation#_5dac2431b50771dde7c366e40e09a7cb</abstract>
       </event>
     </room>
   </day>
@@ -429,6 +483,7 @@
         <room>Unknown</room>
         <title>Session:2m Foxhunting - Foxhunting Day 2</title>
         <url>https://wiki.mch2022.org/Session:2m_Foxhunting#_41404f1b9b72f58a0f8ae6c144713d4a</url>
+        <abstract>https://wiki.mch2022.org/Session:2m_Foxhunting#_41404f1b9b72f58a0f8ae6c144713d4a</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:SPI_hacking#_8f99aca2a3e401395fb158c43a5c48da&lt;/url>">
         <url>https://wiki.mch2022.org/Session:SPI_hacking#_8f99aca2a3e401395fb158c43a5c48da</url>
@@ -438,6 +493,7 @@
         <room>Unknown</room>
         <title>Session:SPI hacking</title>
         <url>https://wiki.mch2022.org/Session:SPI_hacking#_8f99aca2a3e401395fb158c43a5c48da</url>
+        <abstract>https://wiki.mch2022.org/Session:SPI_hacking#_8f99aca2a3e401395fb158c43a5c48da</abstract>
       </event>
     </room>
     <room name="Village:HackTheHealth">
@@ -449,6 +505,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Capture The Flag - CTF Day 3</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_ea83642ed3ac68f58a0c78eb5423bafa</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_ea83642ed3ac68f58a0c78eb5423bafa</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_1a721d8c617bb7c91e3d3cb4b2a9c2a3&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_1a721d8c617bb7c91e3d3cb4b2a9c2a3</url>
@@ -458,6 +515,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Device Lab - Device Lab Day Three</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_1a721d8c617bb7c91e3d3cb4b2a9c2a3</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_1a721d8c617bb7c91e3d3cb4b2a9c2a3</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_6f324965be5cc1ecc80349755505e257&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_6f324965be5cc1ecc80349755505e257</url>
@@ -467,6 +525,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Capture The Flag - CTF Support Day 3 in HackTheHealth Tent</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_6f324965be5cc1ecc80349755505e257</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_6f324965be5cc1ecc80349755505e257</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_17180ff8e393912bac9e5badf170cdbf&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_17180ff8e393912bac9e5badf170cdbf</url>
@@ -476,6 +535,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Games - Cybersecurity Trivia</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_17180ff8e393912bac9e5badf170cdbf</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_17180ff8e393912bac9e5badf170cdbf</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_cb553c8a072dafec7991ad5495db738b&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_cb553c8a072dafec7991ad5495db738b</url>
@@ -485,6 +545,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Games - Medical Trivia</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_cb553c8a072dafec7991ad5495db738b</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_cb553c8a072dafec7991ad5495db738b</abstract>
       </event>
     </room>
     <room name="Village:Area42">
@@ -496,6 +557,7 @@
         <room>Village:Area42</room>
         <title>Session:Drinking coffee and measure the power of your laser - Monday</title>
         <url>https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_5be14395cae381dbf8cfc4121aa54160</url>
+        <abstract>https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_5be14395cae381dbf8cfc4121aa54160</abstract>
       </event>
     </room>
     <room name="Village:80s Party">
@@ -507,6 +569,7 @@
         <room>Village:80s Party</room>
         <title>Session:You shall not mass</title>
         <url>https://wiki.mch2022.org/Session:You_shall_not_mass#_6217553b4d8ef3c0476ecbf74a973bbb</url>
+        <abstract>https://wiki.mch2022.org/Session:You_shall_not_mass#_6217553b4d8ef3c0476ecbf74a973bbb</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Ethical_Dialogue#_7eebef20297aa19176b600d43b0ffdc9&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Ethical_Dialogue#_7eebef20297aa19176b600d43b0ffdc9</url>
@@ -516,6 +579,7 @@
         <room>Village:80s Party</room>
         <title>Session:Ethical Dialogue</title>
         <url>https://wiki.mch2022.org/Session:Ethical_Dialogue#_7eebef20297aa19176b600d43b0ffdc9</url>
+        <abstract>https://wiki.mch2022.org/Session:Ethical_Dialogue#_7eebef20297aa19176b600d43b0ffdc9</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Digital_Society_Meetup#_f402ba15da65e738a208d1d3fe2a8c9a&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Digital_Society_Meetup#_f402ba15da65e738a208d1d3fe2a8c9a</url>
@@ -525,6 +589,7 @@
         <room>Village:80s Party</room>
         <title>Session:Digital Society Meetup</title>
         <url>https://wiki.mch2022.org/Session:Digital_Society_Meetup#_f402ba15da65e738a208d1d3fe2a8c9a</url>
+        <abstract>https://wiki.mch2022.org/Session:Digital_Society_Meetup#_f402ba15da65e738a208d1d3fe2a8c9a</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_079b5e04c16b55209b1c78b5876ad7f0&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_079b5e04c16b55209b1c78b5876ad7f0</url>
@@ -534,6 +599,7 @@
         <room>Village:80s Party</room>
         <title>Session:Anti-surveillance makeup tutorial - How to hamper facial recognition software and still look awesome!</title>
         <url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_079b5e04c16b55209b1c78b5876ad7f0</url>
+        <abstract>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_079b5e04c16b55209b1c78b5876ad7f0</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:80s_Party#_622c8f6801de978fab9b55d6f6c09825&lt;/url>">
         <url>https://wiki.mch2022.org/Session:80s_Party#_622c8f6801de978fab9b55d6f6c09825</url>
@@ -543,6 +609,7 @@
         <room>Village:80s Party</room>
         <title>Session:80s Party</title>
         <url>https://wiki.mch2022.org/Session:80s_Party#_622c8f6801de978fab9b55d6f6c09825</url>
+        <abstract>https://wiki.mch2022.org/Session:80s_Party#_622c8f6801de978fab9b55d6f6c09825</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Bob_Ross_Experience#_f72b437a9f469251a421cc2ea49556f1&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Bob_Ross_Experience#_f72b437a9f469251a421cc2ea49556f1</url>
@@ -552,6 +619,7 @@
         <room>Village:80s Party</room>
         <title>Session:Bob Ross Experience</title>
         <url>https://wiki.mch2022.org/Session:Bob_Ross_Experience#_f72b437a9f469251a421cc2ea49556f1</url>
+        <abstract>https://wiki.mch2022.org/Session:Bob_Ross_Experience#_f72b437a9f469251a421cc2ea49556f1</abstract>
       </event>
     </room>
     <room name="Village:HSNL">
@@ -563,6 +631,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - Funding 101: NLnet and Next Generation Internet</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_18a8c2bcb8d6f7b498c8e0919566b977</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_18a8c2bcb8d6f7b498c8e0919566b977</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_31240fb4cb0836405e3484b66d55703d&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_31240fb4cb0836405e3484b66d55703d</url>
@@ -572,6 +641,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - Linked Data at Kadaster</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_31240fb4cb0836405e3484b66d55703d</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_31240fb4cb0836405e3484b66d55703d</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_1dd7897350ca7f508e9d539d28ace26f&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_1dd7897350ca7f508e9d539d28ace26f</url>
@@ -581,6 +651,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - Cool Linked Data - Live, Immutable, Open.</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_1dd7897350ca7f508e9d539d28ace26f</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_1dd7897350ca7f508e9d539d28ace26f</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_5938c5e8c14a96f0119091fe99f83351&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_5938c5e8c14a96f0119091fe99f83351</url>
@@ -590,6 +661,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - inked Data &amp; Common Ground	-</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_5938c5e8c14a96f0119091fe99f83351</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_5938c5e8c14a96f0119091fe99f83351</abstract>
       </event>
     </room>
     <room name="Village:atypical">
@@ -601,6 +673,7 @@
         <room>Village:atypical</room>
         <title>Session:Learn programming in Python</title>
         <url>https://wiki.mch2022.org/Session:Learn_programming_in_Python#_e0fc948086f28a07dba8559500c9f517</url>
+        <abstract>https://wiki.mch2022.org/Session:Learn_programming_in_Python#_e0fc948086f28a07dba8559500c9f517</abstract>
       </event>
     </room>
     <room name="Village:FoodHackingBase">
@@ -612,6 +685,7 @@
         <room>Village:FoodHackingBase</room>
         <title>Session:FHB:Kimchi making</title>
         <url>https://wiki.mch2022.org/Session:FHB:Kimchi_making#_92a3f10f44c2e500cc875587ebb9d695</url>
+        <abstract>https://wiki.mch2022.org/Session:FHB:Kimchi_making#_92a3f10f44c2e500cc875587ebb9d695</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:FHB:Chips%26Crisps#_5e84c818d4d97304e270a15bcca91165&lt;/url>">
         <url>https://wiki.mch2022.org/Session:FHB:Chips%26Crisps#_5e84c818d4d97304e270a15bcca91165</url>
@@ -621,6 +695,7 @@
         <room>Village:FoodHackingBase</room>
         <title>Session:FHB:Chips&amp;Crisps</title>
         <url>https://wiki.mch2022.org/Session:FHB:Chips%26Crisps#_5e84c818d4d97304e270a15bcca91165</url>
+        <abstract>https://wiki.mch2022.org/Session:FHB:Chips%26Crisps#_5e84c818d4d97304e270a15bcca91165</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2c15b8b60601e71b62d6b7cfd9dfd22e&lt;/url>">
         <url>https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2c15b8b60601e71b62d6b7cfd9dfd22e</url>
@@ -630,6 +705,7 @@
         <room>Village:FoodHackingBase</room>
         <title>Session:FHB:Cheese Rendezvous</title>
         <url>https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2c15b8b60601e71b62d6b7cfd9dfd22e</url>
+        <abstract>https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2c15b8b60601e71b62d6b7cfd9dfd22e</abstract>
       </event>
     </room>
     <room name="Village:1111101001 Nights">
@@ -641,6 +717,7 @@
         <room>Village:1111101001 Nights</room>
         <title>Session:Docker Hacking</title>
         <url>https://wiki.mch2022.org/Session:Docker_Hacking#_53ec41c98ad64ead8664c214779bb18a</url>
+        <abstract>https://wiki.mch2022.org/Session:Docker_Hacking#_53ec41c98ad64ead8664c214779bb18a</abstract>
       </event>
     </room>
     <room name="Village:Unlock The City">
@@ -652,6 +729,7 @@
         <room>Village:Unlock The City</room>
         <title>Session:Who is who in Ancient Hebrew Poetry?</title>
         <url>https://wiki.mch2022.org/Session:Who_is_who_in_Ancient_Hebrew_Poetry%3F#_1ed014b0942716a664e48ff7bb1ae171</url>
+        <abstract>https://wiki.mch2022.org/Session:Who_is_who_in_Ancient_Hebrew_Poetry%3F#_1ed014b0942716a664e48ff7bb1ae171</abstract>
       </event>
     </room>
     <room name="Village:Explody">
@@ -663,6 +741,7 @@
         <room>Village:Explody</room>
         <title>Session:GNU Taler Integration Hacking</title>
         <url>https://wiki.mch2022.org/Session:GNU_Taler_Integration_Hacking#_893a72f2e82858753062ae2222882de0</url>
+        <abstract>https://wiki.mch2022.org/Session:GNU_Taler_Integration_Hacking#_893a72f2e82858753062ae2222882de0</abstract>
       </event>
     </room>
   </day>
@@ -676,6 +755,7 @@
         <room>Unknown</room>
         <title>Session:2m Foxhunting - Foxhunting Day 3</title>
         <url>https://wiki.mch2022.org/Session:2m_Foxhunting#_0bb489bbddadff7bd33186283f89e2af</url>
+        <abstract>https://wiki.mch2022.org/Session:2m_Foxhunting#_0bb489bbddadff7bd33186283f89e2af</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Developing_Concurrent_Pentesting_Tools_in_Go#_633ff96c6bd9c46793b6f243831c40eb&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Developing_Concurrent_Pentesting_Tools_in_Go#_633ff96c6bd9c46793b6f243831c40eb</url>
@@ -685,6 +765,7 @@
         <room>Unknown</room>
         <title>Session:Developing Concurrent Pentesting Tools in Go</title>
         <url>https://wiki.mch2022.org/Session:Developing_Concurrent_Pentesting_Tools_in_Go#_633ff96c6bd9c46793b6f243831c40eb</url>
+        <abstract>https://wiki.mch2022.org/Session:Developing_Concurrent_Pentesting_Tools_in_Go#_633ff96c6bd9c46793b6f243831c40eb</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Wardriver.uk_-_open_source_wardriving_with_the_ESP32#_132a915a909a57ac5b3e267cedc34e63&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Wardriver.uk_-_open_source_wardriving_with_the_ESP32#_132a915a909a57ac5b3e267cedc34e63</url>
@@ -694,6 +775,7 @@
         <room>Unknown</room>
         <title>Session:Wardriver.uk - open source wardriving with the ESP32</title>
         <url>https://wiki.mch2022.org/Session:Wardriver.uk_-_open_source_wardriving_with_the_ESP32#_132a915a909a57ac5b3e267cedc34e63</url>
+        <abstract>https://wiki.mch2022.org/Session:Wardriver.uk_-_open_source_wardriving_with_the_ESP32#_132a915a909a57ac5b3e267cedc34e63</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Badge_demo_party#_96889bf1cace87b6248ed69f430a081d&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Badge_demo_party#_96889bf1cace87b6248ed69f430a081d</url>
@@ -703,6 +785,7 @@
         <room>Unknown</room>
         <title>Session:Badge demo party</title>
         <url>https://wiki.mch2022.org/Session:Badge_demo_party#_96889bf1cace87b6248ed69f430a081d</url>
+        <abstract>https://wiki.mch2022.org/Session:Badge_demo_party#_96889bf1cace87b6248ed69f430a081d</abstract>
       </event>
     </room>
     <room name="Village:80s Party">
@@ -714,6 +797,7 @@
         <room>Village:80s Party</room>
         <title>Session:Trail Run</title>
         <url>https://wiki.mch2022.org/Session:Trail_Run#_ab055b920cd075fe9d9aa58b05d39880</url>
+        <abstract>https://wiki.mch2022.org/Session:Trail_Run#_ab055b920cd075fe9d9aa58b05d39880</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Ethical_Dialogue#_d57f9836ca1d4e4fc533c4070e0694a3&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Ethical_Dialogue#_d57f9836ca1d4e4fc533c4070e0694a3</url>
@@ -723,6 +807,7 @@
         <room>Village:80s Party</room>
         <title>Session:Ethical Dialogue</title>
         <url>https://wiki.mch2022.org/Session:Ethical_Dialogue#_d57f9836ca1d4e4fc533c4070e0694a3</url>
+        <abstract>https://wiki.mch2022.org/Session:Ethical_Dialogue#_d57f9836ca1d4e4fc533c4070e0694a3</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:80s_Party#_941ddfa9881706afef489ea9d5ca3d62&lt;/url>">
         <url>https://wiki.mch2022.org/Session:80s_Party#_941ddfa9881706afef489ea9d5ca3d62</url>
@@ -732,6 +817,7 @@
         <room>Village:80s Party</room>
         <title>Session:80s Party</title>
         <url>https://wiki.mch2022.org/Session:80s_Party#_941ddfa9881706afef489ea9d5ca3d62</url>
+        <abstract>https://wiki.mch2022.org/Session:80s_Party#_941ddfa9881706afef489ea9d5ca3d62</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_7b5f5fa5b25d1ee7e4e9da6b57780c8a&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_7b5f5fa5b25d1ee7e4e9da6b57780c8a</url>
@@ -741,6 +827,7 @@
         <room>Village:80s Party</room>
         <title>Session:Anti-surveillance makeup tutorial - How to hamper facial recognition software and still look awesome!</title>
         <url>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_7b5f5fa5b25d1ee7e4e9da6b57780c8a</url>
+        <abstract>https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_7b5f5fa5b25d1ee7e4e9da6b57780c8a</abstract>
       </event>
     </room>
     <room name="Village:HackTheHealth">
@@ -752,6 +839,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Capture The Flag - CTF Day 4</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_e202ae46cdb7f4ee4a203450bfc9281f</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_e202ae46cdb7f4ee4a203450bfc9281f</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_5e9488f7c4b04b17513089dee6af517e&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_5e9488f7c4b04b17513089dee6af517e</url>
@@ -761,6 +849,7 @@
         <room>Village:HackTheHealth</room>
         <title>Session:Hack The Health: Capture The Flag - CTF Support Day 4 in HackTheHealth Tent</title>
         <url>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_5e9488f7c4b04b17513089dee6af517e</url>
+        <abstract>https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_5e9488f7c4b04b17513089dee6af517e</abstract>
       </event>
     </room>
     <room name="Village:Hardware Hacking Area - HHA">
@@ -772,6 +861,7 @@
         <room>Village:Hardware Hacking Area - HHA</room>
         <title>Session:Kids/youth mentoring regulars' table</title>
         <url>https://wiki.mch2022.org/Session:Kids/youth_mentoring_regulars%27_table#_f396be6effbb563b54d931e54ccd84d8</url>
+        <abstract>https://wiki.mch2022.org/Session:Kids/youth_mentoring_regulars%27_table#_f396be6effbb563b54d931e54ccd84d8</abstract>
       </event>
     </room>
     <room name="Village:HSNL">
@@ -783,6 +873,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - Funding 101: NLnet and Next Generation Internet by Michiel Leenaars</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_277d50b1d5fa0fe089d676ee50a9d694</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_277d50b1d5fa0fe089d676ee50a9d694</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6145fe62c3d3beeb5517d978f306d999&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6145fe62c3d3beeb5517d978f306d999</url>
@@ -792,6 +883,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - IPFS by Will Scott</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6145fe62c3d3beeb5517d978f306d999</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6145fe62c3d3beeb5517d978f306d999</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6d521ba175183cbcb943ecc68794805b&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6d521ba175183cbcb943ecc68794805b</url>
@@ -801,6 +893,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - Self Soverign Identity by Animo</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6d521ba175183cbcb943ecc68794805b</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6d521ba175183cbcb943ecc68794805b</abstract>
       </event>
       <event id="&lt;url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_d369a3497234fbee0988bb32c8a4d2f5&lt;/url>">
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_d369a3497234fbee0988bb32c8a4d2f5</url>
@@ -810,6 +903,7 @@
         <room>Village:HSNL</room>
         <title>Session:Solid, Linked Data and Decentralized Web Meetup - Data custodian, identity and government by Conduction</title>
         <url>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_d369a3497234fbee0988bb32c8a4d2f5</url>
+        <abstract>https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_d369a3497234fbee0988bb32c8a4d2f5</abstract>
       </event>
     </room>
     <room name="Unlock">
@@ -821,6 +915,7 @@
         <room>Unlock</room>
         <title>Session:Adventures with workflow automation</title>
         <url>https://wiki.mch2022.org/Session:Adventures_with_workflow_automation#_2d02bd3ae2b76f23cabce61795d6f144</url>
+        <abstract>https://wiki.mch2022.org/Session:Adventures_with_workflow_automation#_2d02bd3ae2b76f23cabce61795d6f144</abstract>
       </event>
     </room>
     <room name="Village:atypical">
@@ -832,6 +927,7 @@
         <room>Village:atypical</room>
         <title>Session:Mail Spoofing</title>
         <url>https://wiki.mch2022.org/Session:Mail_Spoofing#_2a920cff03b381302d6b5ea97926e5fd</url>
+        <abstract>https://wiki.mch2022.org/Session:Mail_Spoofing#_2a920cff03b381302d6b5ea97926e5fd</abstract>
       </event>
     </room>
     <room name="Village:FoodHackingBase">
@@ -843,6 +939,7 @@
         <room>Village:FoodHackingBase</room>
         <title>Session:FHB:Advanced brewing</title>
         <url>https://wiki.mch2022.org/Session:FHB:Advanced_brewing#_b210c906f60b4ddfa6c6cfb545fc093f</url>
+        <abstract>https://wiki.mch2022.org/Session:FHB:Advanced_brewing#_b210c906f60b4ddfa6c6cfb545fc093f</abstract>
       </event>
     </room>
     <room name="Village:Unlock The City">
@@ -854,6 +951,7 @@
         <room>Village:Unlock The City</room>
         <title>Session:Hardware hacking for absolute beginners + CTF</title>
         <url>https://wiki.mch2022.org/Session:Hardware_hacking_for_absolute_beginners_%2B_CTF#_2b49c2a41262f11afb4c4d6a431c5108</url>
+        <abstract>https://wiki.mch2022.org/Session:Hardware_hacking_for_absolute_beginners_%2B_CTF#_2b49c2a41262f11afb4c4d6a431c5108</abstract>
       </event>
     </room>
   </day>
@@ -867,6 +965,7 @@
         <room>Unknown</room>
         <title>Session:2m Foxhunting - Foxhunting Day 4</title>
         <url>https://wiki.mch2022.org/Session:2m_Foxhunting#_b35cda45d40ce496c975629e91ed916f</url>
+        <abstract>https://wiki.mch2022.org/Session:2m_Foxhunting#_b35cda45d40ce496c975629e91ed916f</abstract>
       </event>
     </room>
     <room name="Village:atypical">
@@ -878,6 +977,7 @@
         <room>Village:atypical</room>
         <title>Session:Automation with Ansible</title>
         <url>https://wiki.mch2022.org/Session:Automation_with_Ansible#_94031a1b360c1cf833443cc152c985f3</url>
+        <abstract>https://wiki.mch2022.org/Session:Automation_with_Ansible#_94031a1b360c1cf833443cc152c985f3</abstract>
       </event>
     </room>
     <room name="Village:80s Party">
@@ -889,6 +989,7 @@
         <room>Village:80s Party</room>
         <title>Session:80s Party</title>
         <url>https://wiki.mch2022.org/Session:80s_Party#_bc10b54b4901eada395ba9029f2ead68</url>
+        <abstract>https://wiki.mch2022.org/Session:80s_Party#_bc10b54b4901eada395ba9029f2ead68</abstract>
       </event>
     </room>
   </day>
@@ -902,6 +1003,7 @@
         <room>Unknown</room>
         <title>Session:2m Foxhunting - Foxhunting Day 5</title>
         <url>https://wiki.mch2022.org/Session:2m_Foxhunting#_c4ece82be6e3966212475d67edd452e2</url>
+        <abstract>https://wiki.mch2022.org/Session:2m_Foxhunting#_c4ece82be6e3966212475d67edd452e2</abstract>
       </event>
     </room>
   </day>
