@@ -1,0 +1,4 @@
+<merge xmlns="http://informatik.hu-berlin.de/merge">
+      <file1>mch/schedule.xml</file1>
+      <file2>schedule.xml</file2>
+</merge>
