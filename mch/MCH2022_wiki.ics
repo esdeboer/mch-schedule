@@ -1,0 +1,1101 @@
+BEGIN:VCALENDAR
+PRODID:-//SMW Project//Semantic Result Formats
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:MCH2022 wiki
+X-WR-CALDESC:
+BEGIN:VEVENT
+SUMMARY:Jellejurre
+URL:https://wiki.mch2022.org/User:Jellejurre#_446d943567d4e8fa524f76b1cc0686c4
+UID:https://wiki.mch2022.org/User:Jellejurre#_446d943567d4e8fa524f76b1cc0686c4
+DTSTART:20220722T210000
+DTEND:20220722T220000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220716T120905
+SEQUENCE:14759
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jhewitt.net
+URL:https://wiki.mch2022.org/User:Jhewitt.net#_2ee5d7ebae6d10731e7b715008bd5085
+UID:https://wiki.mch2022.org/User:Jhewitt.net#_2ee5d7ebae6d10731e7b715008bd5085
+DTSTART:20220725T180000
+DTEND:20220725T190000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220716T111616
+SEQUENCE:14733
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jilles com
+URL:https://wiki.mch2022.org/User:Jilles_com#_83ba0ae26a4f36f9c31278cd90287d3c
+UID:https://wiki.mch2022.org/User:Jilles_com#_83ba0ae26a4f36f9c31278cd90287d3c
+DTSTART:20220725T100000
+DTEND:20220725T105000
+LOCATION:Https://wiki.mch2022.org/Abacus Main stage tent:Abacus
+DTSTAMP:20220716T172940
+SEQUENCE:14805
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jilles com
+URL:https://wiki.mch2022.org/User:Jilles_com#_ac4c34dd92161348aaeda3e79248e429
+UID:https://wiki.mch2022.org/User:Jilles_com#_ac4c34dd92161348aaeda3e79248e429
+DTSTART:20220725T180000
+DTEND:20220725T190000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220716T172940
+SEQUENCE:14805
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jilles com
+URL:https://wiki.mch2022.org/User:Jilles_com#_cbfd47a4a7e3439072562d7bb9af9a85
+UID:https://wiki.mch2022.org/User:Jilles_com#_cbfd47a4a7e3439072562d7bb9af9a85
+DTSTART:20220724T153000
+DTEND:20220724T170000
+LOCATION:Village:Hardware Hacking Area - HHA
+DTSTAMP:20220716T172940
+SEQUENCE:14805
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jilles com
+URL:https://wiki.mch2022.org/User:Jilles_com#_dd4553974150772e48f69d355178e6dc
+UID:https://wiki.mch2022.org/User:Jilles_com#_dd4553974150772e48f69d355178e6dc
+DTSTART:20220725T140000
+DTEND:20220725T170000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220716T172940
+SEQUENCE:14805
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JurreJelle
+URL:https://wiki.mch2022.org/User:JurreJelle#_4a362e4411525977d097ff0361ea79f1
+UID:https://wiki.mch2022.org/User:JurreJelle#_4a362e4411525977d097ff0361ea79f1
+DTSTART:20220722T210000
+DTEND:20220722T220000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220717T140902
+SEQUENCE:14967
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JurreJelle
+URL:https://wiki.mch2022.org/User:JurreJelle#_61741b2c04ee675ba5f249c7dc44cb87
+UID:https://wiki.mch2022.org/User:JurreJelle#_61741b2c04ee675ba5f249c7dc44cb87
+DTSTART:20220724T153000
+DTEND:20220724T170000
+LOCATION:Village:Hardware Hacking Area - HHA
+DTSTAMP:20220717T140902
+SEQUENCE:14967
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JurreJelle
+URL:https://wiki.mch2022.org/User:JurreJelle#_93f3b5554ef9aa0bfa580507e493f308
+UID:https://wiki.mch2022.org/User:JurreJelle#_93f3b5554ef9aa0bfa580507e493f308
+DTSTART:20220725T100000
+DTEND:20220725T105000
+LOCATION:Https://wiki.mch2022.org/Abacus Main stage tent:Abacus
+DTSTAMP:20220717T140902
+SEQUENCE:14967
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JurreJelle
+URL:https://wiki.mch2022.org/User:JurreJelle#_dc60530bdcb5fae0748a1909bc6b07cf
+UID:https://wiki.mch2022.org/User:JurreJelle#_dc60530bdcb5fae0748a1909bc6b07cf
+DTSTART:20220725T140000
+DTEND:20220725T170000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220717T140902
+SEQUENCE:14967
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session: Sun 24 July Red Teaming: Obtaining Initial Access through Social Engineering
+URL:https://wiki.mch2022.org/Session:_Sun_24_July_Red_Teaming:_Obtaining_Initial_Access_through_Social_Engineering#_e537d8f2072cc70fd835b60535852c9b
+UID:https://wiki.mch2022.org/Session:_Sun_24_July_Red_Teaming:_Obtaining_Initial_Access_through_Social_Engineering#_e537d8f2072cc70fd835b60535852c9b
+DTSTART:20220724T140000
+DTSTAMP:20220718T121926
+SEQUENCE:15410
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:2m Foxhunting - Foxhunting Day 3
+URL:https://wiki.mch2022.org/Session:2m_Foxhunting#_0bb489bbddadff7bd33186283f89e2af
+UID:https://wiki.mch2022.org/Session:2m_Foxhunting#_0bb489bbddadff7bd33186283f89e2af
+DTSTART:20220724T000000
+DTEND:20220725T000000
+DTSTAMP:20220710T203428
+SEQUENCE:13253
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:2m Foxhunting - Foxhunting Day 2
+URL:https://wiki.mch2022.org/Session:2m_Foxhunting#_41404f1b9b72f58a0f8ae6c144713d4a
+UID:https://wiki.mch2022.org/Session:2m_Foxhunting#_41404f1b9b72f58a0f8ae6c144713d4a
+DTSTART:20220723T000000
+DTEND:20220724T000000
+DTSTAMP:20220710T203428
+SEQUENCE:13253
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:2m Foxhunting - Foxhunting Day 4
+URL:https://wiki.mch2022.org/Session:2m_Foxhunting#_b35cda45d40ce496c975629e91ed916f
+UID:https://wiki.mch2022.org/Session:2m_Foxhunting#_b35cda45d40ce496c975629e91ed916f
+DTSTART:20220725T000000
+DTEND:20220726T000000
+DTSTAMP:20220710T203428
+SEQUENCE:13253
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:2m Foxhunting - Foxhunting Day 5
+URL:https://wiki.mch2022.org/Session:2m_Foxhunting#_c4ece82be6e3966212475d67edd452e2
+UID:https://wiki.mch2022.org/Session:2m_Foxhunting#_c4ece82be6e3966212475d67edd452e2
+DTSTART:20220726T000000
+DTEND:20220726T170000
+DTSTAMP:20220710T203428
+SEQUENCE:13253
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:2m Foxhunting - Foxhunting Day 1
+URL:https://wiki.mch2022.org/Session:2m_Foxhunting#_de4f74d5b88b0aa641f5cee182fd685f
+UID:https://wiki.mch2022.org/Session:2m_Foxhunting#_de4f74d5b88b0aa641f5cee182fd685f
+DTSTART:20220722T170000
+DTEND:20220723T000000
+DTSTAMP:20220710T203428
+SEQUENCE:13253
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:80s Party
+URL:https://wiki.mch2022.org/Session:80s_Party#_56c9a78ef9603a7b481ef8b7192a818d
+UID:https://wiki.mch2022.org/Session:80s_Party#_56c9a78ef9603a7b481ef8b7192a818d
+DTSTART:20220722T190000
+DTEND:20220722T200000
+LOCATION:Village:80s Party
+DTSTAMP:20220717T091052
+SEQUENCE:14895
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:80s Party
+URL:https://wiki.mch2022.org/Session:80s_Party#_622c8f6801de978fab9b55d6f6c09825
+UID:https://wiki.mch2022.org/Session:80s_Party#_622c8f6801de978fab9b55d6f6c09825
+DTSTART:20220724T185529
+DTEND:20220724T195529
+LOCATION:Village:80s Party
+DTSTAMP:20220717T091052
+SEQUENCE:14895
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:80s Party
+URL:https://wiki.mch2022.org/Session:80s_Party#_941ddfa9881706afef489ea9d5ca3d62
+UID:https://wiki.mch2022.org/Session:80s_Party#_941ddfa9881706afef489ea9d5ca3d62
+DTSTART:20220725T170000
+DTEND:20220725T180000
+LOCATION:Village:80s Party
+DTSTAMP:20220717T091052
+SEQUENCE:14895
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:80s Party
+URL:https://wiki.mch2022.org/Session:80s_Party#_98e335fb6a4401619c555b0d396e6579
+UID:https://wiki.mch2022.org/Session:80s_Party#_98e335fb6a4401619c555b0d396e6579
+DTSTART:20220723T170000
+DTEND:20220723T180000
+LOCATION:Village:80s Party
+DTSTAMP:20220717T091052
+SEQUENCE:14895
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:80s Party
+URL:https://wiki.mch2022.org/Session:80s_Party#_bc10b54b4901eada395ba9029f2ead68
+UID:https://wiki.mch2022.org/Session:80s_Party#_bc10b54b4901eada395ba9029f2ead68
+DTSTART:20220726T170000
+DTEND:20220726T180000
+LOCATION:Village:80s Party
+DTSTAMP:20220717T091052
+SEQUENCE:14895
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Adventures with workflow automation
+URL:https://wiki.mch2022.org/Session:Adventures_with_workflow_automation#_aee6473297dfae184c0e04d94408b91d
+UID:https://wiki.mch2022.org/Session:Adventures_with_workflow_automation#_aee6473297dfae184c0e04d94408b91d
+DTSTART:20220725T130000
+DTEND:20220725T140000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T105720
+SEQUENCE:15363
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Anti-surveillance makeup tutorial - How to hamper facial recognition software and still look awesome!
+URL:https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_079b5e04c16b55209b1c78b5876ad7f0
+UID:https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_079b5e04c16b55209b1c78b5876ad7f0
+DTSTART:20220724T180000
+DTEND:20220724T190000
+LOCATION:Village:80s Party
+DTSTAMP:20220712T102137
+SEQUENCE:13804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Anti-surveillance makeup tutorial - How to hamper facial recognition software and still look awesome!
+URL:https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_13de4849dc21e243cbde4947a8ebc91a
+UID:https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_13de4849dc21e243cbde4947a8ebc91a
+DTSTART:20220723T180000
+DTEND:20220723T190000
+LOCATION:Village:80s Party
+DTSTAMP:20220712T102137
+SEQUENCE:13804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Anti-surveillance makeup tutorial - How to hamper facial recognition software and still look awesome!
+URL:https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_7b5f5fa5b25d1ee7e4e9da6b57780c8a
+UID:https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_7b5f5fa5b25d1ee7e4e9da6b57780c8a
+DTSTART:20220725T180000
+DTEND:20220725T190000
+LOCATION:Village:80s Party
+DTSTAMP:20220712T102137
+SEQUENCE:13804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Anti-surveillance makeup tutorial - How to hamper facial recognition software and still look awesome!
+URL:https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_c2b8a2e0ea1006e8be6ad8cc759363a9
+UID:https://wiki.mch2022.org/Session:Anti-surveillance_makeup_tutorial#_c2b8a2e0ea1006e8be6ad8cc759363a9
+DTSTART:20220722T180000
+DTEND:20220722T190000
+LOCATION:Village:80s Party
+DTSTAMP:20220712T102137
+SEQUENCE:13804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Arch Linux User Meetup
+URL:https://wiki.mch2022.org/Session:Arch_Linux_User_Meetup#_4a3b794b81639b607d5e6aa328cddfde
+UID:https://wiki.mch2022.org/Session:Arch_Linux_User_Meetup#_4a3b794b81639b607d5e6aa328cddfde
+DTSTART:20170804T193000
+DTEND:20170804T210000
+DTSTAMP:20220718T124144
+SEQUENCE:15437
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Automation with Ansible
+URL:https://wiki.mch2022.org/Session:Automation_with_Ansible#_63f978e032096a3c63a48a75430ded70
+UID:https://wiki.mch2022.org/Session:Automation_with_Ansible#_63f978e032096a3c63a48a75430ded70
+DTSTART:20220726T130000
+DTEND:20220726T160000
+LOCATION:Village:atypical
+DTSTAMP:20220718T074331
+SEQUENCE:15261
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Badge demo party
+URL:https://wiki.mch2022.org/Session:Badge_demo_party#_96889bf1cace87b6248ed69f430a081d
+UID:https://wiki.mch2022.org/Session:Badge_demo_party#_96889bf1cace87b6248ed69f430a081d
+DTSTART:20220725T210000
+DTEND:20220725T220000
+DTSTAMP:20220711T163716
+SEQUENCE:13503
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Black box Cocktails
+URL:https://wiki.mch2022.org/Session:Black_box_Cocktails#_56155d6d203a401d18d5f5c2fafe3a52
+UID:https://wiki.mch2022.org/Session:Black_box_Cocktails#_56155d6d203a401d18d5f5c2fafe3a52
+DTSTART:20220722T180000
+DTEND:20220722T200000
+LOCATION:Village:80s Party
+DTSTAMP:20220712T043900
+SEQUENCE:13684
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Bob Ross Experience
+URL:https://wiki.mch2022.org/Session:Bob_Ross_Experience#_f72b437a9f469251a421cc2ea49556f1
+UID:https://wiki.mch2022.org/Session:Bob_Ross_Experience#_f72b437a9f469251a421cc2ea49556f1
+DTSTART:20220724T200000
+DTEND:20220724T210000
+LOCATION:Village:80s Party
+DTSTAMP:20220713T204511
+SEQUENCE:14312
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:CODED BIAS
+URL:https://wiki.mch2022.org/Session:CODED_BIAS#_dcf978cbc21754ac3f768f77905f9ac0
+UID:https://wiki.mch2022.org/Session:CODED_BIAS#_dcf978cbc21754ac3f768f77905f9ac0
+DTSTART:20220723T210000
+DTEND:20220723T223000
+LOCATION:Village:80s Party
+DTSTAMP:20220717T091412
+SEQUENCE:14901
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Can you stage dive in the metaverse: A digital ethics discussion on rules in a digital sphere
+URL:https://wiki.mch2022.org/Session:Can_you_stage_dive_in_the_metaverse:_A_digital_ethics_discussion_on_rules_in_a_digital_sphere#_337ffaedf033e1c4fa698e2c4c35d05d
+UID:https://wiki.mch2022.org/Session:Can_you_stage_dive_in_the_metaverse:_A_digital_ethics_discussion_on_rules_in_a_digital_sphere#_337ffaedf033e1c4fa698e2c4c35d05d
+DTSTART:20220722T200000
+DTEND:20220722T210000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T105809
+SEQUENCE:15364
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Dance workshop - Entire MCH
+URL:https://wiki.mch2022.org/Session:Dance_workshop#_759f7fd0bd618a3e3bbabbc99d88aa01
+UID:https://wiki.mch2022.org/Session:Dance_workshop#_759f7fd0bd618a3e3bbabbc99d88aa01
+DTSTART:20170804T000000
+DTSTAMP:20220707T084544
+SEQUENCE:12645
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:DefCon Holland Group at MCH2022
+URL:https://wiki.mch2022.org/Session:DefCon_Holland_Group_at_MCH2022#_f821d44db8e92e03549020fb27d4cc6a
+UID:https://wiki.mch2022.org/Session:DefCon_Holland_Group_at_MCH2022#_f821d44db8e92e03549020fb27d4cc6a
+DTSTART:20220724T200000
+DTEND:20220724T220000
+DTSTAMP:20220717T185108
+SEQUENCE:15040
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Defending and attacking Kubernetes
+URL:https://wiki.mch2022.org/Session:Defending_and_attacking_Kubernetes#_9318437ff10b3d9f7c3841cd0a6f895f
+UID:https://wiki.mch2022.org/Session:Defending_and_attacking_Kubernetes#_9318437ff10b3d9f7c3841cd0a6f895f
+DTSTART:20220722T180000
+DTEND:20220722T190000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T105627
+SEQUENCE:15362
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Developing Concurrent Pentesting Tools in Go
+URL:https://wiki.mch2022.org/Session:Developing_Concurrent_Pentesting_Tools_in_Go#_fce6d0eec6be8cbd971b427465d8cba0
+UID:https://wiki.mch2022.org/Session:Developing_Concurrent_Pentesting_Tools_in_Go#_fce6d0eec6be8cbd971b427465d8cba0
+DTSTART:20220725T110000
+DTEND:20220725T130000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T110154
+SEQUENCE:15365
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Developing the CityControl badge app
+URL:https://wiki.mch2022.org/Session:Developing_the_CityControl_badge_app#_f0e2ae536fd56409c834212faa475e4a
+UID:https://wiki.mch2022.org/Session:Developing_the_CityControl_badge_app#_f0e2ae536fd56409c834212faa475e4a
+DTSTART:20220723T130000
+DTEND:20220723T140000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T110408
+SEQUENCE:15366
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Docker Hacking
+URL:https://wiki.mch2022.org/Session:Docker_Hacking#_53ec41c98ad64ead8664c214779bb18a
+UID:https://wiki.mch2022.org/Session:Docker_Hacking#_53ec41c98ad64ead8664c214779bb18a
+DTSTART:20220724T160000
+DTEND:20220724T170000
+LOCATION:Village:1111101001 Nights
+DTSTAMP:20220718T070829
+SEQUENCE:15234
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Drinking coffee and measure the power of your laser - Saturday
+URL:https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_029747bdc1494c8df0e6813dcd89273a
+UID:https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_029747bdc1494c8df0e6813dcd89273a
+DTSTART:20220723T100000
+DTEND:20220723T110000
+LOCATION:Village:Area42
+DTSTAMP:20220718T063325
+SEQUENCE:15228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Drinking coffee and measure the power of your laser - Sunday
+URL:https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_0340d1c9aebb23c7f7ca77535038c2b8
+UID:https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_0340d1c9aebb23c7f7ca77535038c2b8
+DTSTART:20220723T110000
+DTEND:20220723T120000
+LOCATION:Village:Area42
+DTSTAMP:20220718T063325
+SEQUENCE:15228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Drinking coffee and measure the power of your laser - Monday
+URL:https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_c3ed24a0ab6d232faf373b07ff9ec881
+UID:https://wiki.mch2022.org/Session:Drinking_coffee_and_measure_the_power_of_your_laser#_c3ed24a0ab6d232faf373b07ff9ec881
+DTSTART:20220724T100000
+DTEND:20220724T110000
+LOCATION:Village:Area42
+DTSTAMP:20220718T063325
+SEQUENCE:15228
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Drinks with WICCA
+URL:https://wiki.mch2022.org/Session:Drinks_with_WICCA#_7455a325321fc266ef55e086ecb28623
+UID:https://wiki.mch2022.org/Session:Drinks_with_WICCA#_7455a325321fc266ef55e086ecb28623
+DTSTART:20220723T200000
+DTEND:20220723T220000
+DTSTAMP:20220711T152743
+SEQUENCE:13488
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Dutch Government's Digitisation Programme
+URL:https://wiki.mch2022.org/Session:Dutch_Government%27s_Digitisation_Programme#_e86c67ed0b53ced6285950dadf409702
+UID:https://wiki.mch2022.org/Session:Dutch_Government%27s_Digitisation_Programme#_e86c67ed0b53ced6285950dadf409702
+DTSTART:20220724T150000
+DTEND:20220724T160000
+LOCATION:Village:80s Party
+DTSTAMP:20220718T091659
+SEQUENCE:15315
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:E-books\, 1 library to store them all. let's share - share all ebooks
+URL:https://wiki.mch2022.org/Session:E-books,_1_library_to_store_them_all._let%27s_share#_9182d2af10313919934c37e88e6961f4
+UID:https://wiki.mch2022.org/Session:E-books,_1_library_to_store_them_all._let%27s_share#_9182d2af10313919934c37e88e6961f4
+DTSTART:20220722T092507
+LOCATION:May Contain Books
+DTSTAMP:20220712T093150
+SEQUENCE:13792
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Ethical Dialogue
+URL:https://wiki.mch2022.org/Session:Ethical_Dialogue#_3b96981f6b781ebc5328ad946cb5ec69
+UID:https://wiki.mch2022.org/Session:Ethical_Dialogue#_3b96981f6b781ebc5328ad946cb5ec69
+DTSTART:20220723T120000
+DTEND:20220723T133000
+LOCATION:Village:80s Party
+DTSTAMP:20220716T133512
+SEQUENCE:14780
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Ethical Dialogue
+URL:https://wiki.mch2022.org/Session:Ethical_Dialogue#_7eebef20297aa19176b600d43b0ffdc9
+UID:https://wiki.mch2022.org/Session:Ethical_Dialogue#_7eebef20297aa19176b600d43b0ffdc9
+DTSTART:20220724T120000
+DTEND:20220724T133000
+LOCATION:Village:80s Party
+DTSTAMP:20220716T133512
+SEQUENCE:14780
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Ethical Dialogue
+URL:https://wiki.mch2022.org/Session:Ethical_Dialogue#_d57f9836ca1d4e4fc533c4070e0694a3
+UID:https://wiki.mch2022.org/Session:Ethical_Dialogue#_d57f9836ca1d4e4fc533c4070e0694a3
+DTSTART:20220725T120000
+DTEND:20220725T133000
+LOCATION:Village:80s Party
+DTSTAMP:20220716T133512
+SEQUENCE:14780
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:FHB Soybean Fermentation
+URL:https://wiki.mch2022.org/Session:FHB_Soybean_Fermentation#_c8419fc3851d3e66a078b0a69472b2e5
+UID:https://wiki.mch2022.org/Session:FHB_Soybean_Fermentation#_c8419fc3851d3e66a078b0a69472b2e5
+DTSTART:20220722T140000
+DTEND:20220722T160000
+LOCATION:Village:FoodHackingBase
+DTSTAMP:20220713T134452
+SEQUENCE:14184
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:FHB:Advanced brewing
+URL:https://wiki.mch2022.org/Session:FHB:Advanced_brewing#_b210c906f60b4ddfa6c6cfb545fc093f
+UID:https://wiki.mch2022.org/Session:FHB:Advanced_brewing#_b210c906f60b4ddfa6c6cfb545fc093f
+DTSTART:20220725T140000
+DTEND:20220725T160000
+LOCATION:Village:FoodHackingBase
+DTSTAMP:20220715T100634
+SEQUENCE:14576
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:FHB:Cheese Rendezvous
+URL:https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2c15b8b60601e71b62d6b7cfd9dfd22e
+UID:https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2c15b8b60601e71b62d6b7cfd9dfd22e
+DTSTART:20220724T200000
+DTEND:20220724T220000
+LOCATION:Village:FoodHackingBase
+DTSTAMP:20220715T192503
+SEQUENCE:14655
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:FHB:Cheese Rendezvous
+URL:https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2f16d8a33348588bec2dbec37bab7532
+UID:https://wiki.mch2022.org/Session:FHB:Cheese_Rendezvous#_2f16d8a33348588bec2dbec37bab7532
+DTSTART:20220722T193000
+DTEND:20220722T213000
+LOCATION:Village:FoodHackingBase
+DTSTAMP:20220715T192503
+SEQUENCE:14655
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:FHB:Chips&Crisps
+URL:https://wiki.mch2022.org/Session:FHB:Chips%26Crisps#_5e84c818d4d97304e270a15bcca91165
+UID:https://wiki.mch2022.org/Session:FHB:Chips%26Crisps#_5e84c818d4d97304e270a15bcca91165
+DTSTART:20220724T160000
+DTEND:20220724T173000
+LOCATION:Village:FoodHackingBase
+DTSTAMP:20220715T095025
+SEQUENCE:14571
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:FHB:Cider Flows
+URL:https://wiki.mch2022.org/Session:FHB:Cider_Flows#_0527d24cb3c847a9cb2aa70231687620
+UID:https://wiki.mch2022.org/Session:FHB:Cider_Flows#_0527d24cb3c847a9cb2aa70231687620
+DTSTART:20220723T210000
+DTEND:20220723T230000
+LOCATION:Village:FoodHackingBase
+DTSTAMP:20220715T092714
+SEQUENCE:14570
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:FHB:Kefir Making
+URL:https://wiki.mch2022.org/Session:FHB:Kefir_Making#_8d7a5040ff2222086ead8fabc5df2aa5
+UID:https://wiki.mch2022.org/Session:FHB:Kefir_Making#_8d7a5040ff2222086ead8fabc5df2aa5
+DTSTART:20220723T140000
+DTEND:20220723T160000
+LOCATION:Village:FoodHackingBase
+DTSTAMP:20220715T091823
+SEQUENCE:14568
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:FHB:Kimchi making
+URL:https://wiki.mch2022.org/Session:FHB:Kimchi_making#_92a3f10f44c2e500cc875587ebb9d695
+UID:https://wiki.mch2022.org/Session:FHB:Kimchi_making#_92a3f10f44c2e500cc875587ebb9d695
+DTSTART:20220724T140000
+DTEND:20220724T160000
+LOCATION:Village:FoodHackingBase
+DTSTAMP:20220715T092556
+SEQUENCE:14569
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:FHB:Seitan Making 101
+URL:https://wiki.mch2022.org/Session:FHB:Seitan_Making_101#_bb38ffbaa28f3ef171beecec778dcdff
+UID:https://wiki.mch2022.org/Session:FHB:Seitan_Making_101#_bb38ffbaa28f3ef171beecec778dcdff
+DTSTART:20220722T160000
+DTEND:20220722T180000
+LOCATION:Village:FoodHackingBase
+DTSTAMP:20220715T084845
+SEQUENCE:14557
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:GNU Taler Integration Hacking
+URL:https://wiki.mch2022.org/Session:GNU_Taler_Integration_Hacking#_893a72f2e82858753062ae2222882de0
+UID:https://wiki.mch2022.org/Session:GNU_Taler_Integration_Hacking#_893a72f2e82858753062ae2222882de0
+DTSTART:20220724T190000
+DTEND:20220724T203000
+LOCATION:Village:Explody
+DTSTAMP:20220619T130635
+SEQUENCE:10178
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Glass melting workshop
+URL:https://wiki.mch2022.org/Session:Glass_melting_workshop#_90cfa57c82bbc3758639c9d5b07c76ec
+UID:https://wiki.mch2022.org/Session:Glass_melting_workshop#_90cfa57c82bbc3758639c9d5b07c76ec
+DTSTART:20170804T000000
+DTEND:20170804T013900
+DTSTAMP:20220613T162835
+SEQUENCE:9621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Capture The Flag - CTF Day 1
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_12669eacd18b5f76b3b932ee22d133ce
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_12669eacd18b5f76b3b932ee22d133ce
+DTSTART:20220722T080000
+DTEND:20220722T220000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T175240
+SEQUENCE:11277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Capture The Flag - CTF Day 2
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_567f0032370854d3bc182e26c13dcf88
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_567f0032370854d3bc182e26c13dcf88
+DTSTART:20220723T080000
+DTEND:20220723T220000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T175240
+SEQUENCE:11277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Capture The Flag - CTF Support Day 4 in HackTheHealth Tent
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_5e9488f7c4b04b17513089dee6af517e
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_5e9488f7c4b04b17513089dee6af517e
+DTSTART:20220725T120000
+DTEND:20220725T160000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T175240
+SEQUENCE:11277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Capture The Flag - CTF Support Day 3 in HackTheHealth Tent
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_6f324965be5cc1ecc80349755505e257
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_6f324965be5cc1ecc80349755505e257
+DTSTART:20220724T120000
+DTEND:20220724T160000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T175240
+SEQUENCE:11277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Capture The Flag - CTF Support Day 2 in HackTheHealth Tent
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_85a2a14484b095990e23e99180fa1d08
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_85a2a14484b095990e23e99180fa1d08
+DTSTART:20220723T120000
+DTEND:20220723T160000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T175240
+SEQUENCE:11277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Capture The Flag - CTF Support Day 1 in HackTheHealth Tent
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_935d666e4651376ea9e03930ad983778
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_935d666e4651376ea9e03930ad983778
+DTSTART:20220722T120000
+DTEND:20220722T160000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T175240
+SEQUENCE:11277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Capture The Flag - CTF Day 4
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_e202ae46cdb7f4ee4a203450bfc9281f
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_e202ae46cdb7f4ee4a203450bfc9281f
+DTSTART:20220725T100000
+DTEND:20220726T000000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T175240
+SEQUENCE:11277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Capture The Flag - CTF Day 3
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_ea83642ed3ac68f58a0c78eb5423bafa
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Capture_The_Flag#_ea83642ed3ac68f58a0c78eb5423bafa
+DTSTART:20220724T080000
+DTEND:20220724T220000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T175240
+SEQUENCE:11277
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Device Lab - Device Lab Day Three
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_1a721d8c617bb7c91e3d3cb4b2a9c2a3
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_1a721d8c617bb7c91e3d3cb4b2a9c2a3
+DTSTART:20220724T100000
+DTEND:20220724T220000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T175816
+SEQUENCE:11278
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Device Lab - Device Lab Day Two
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_35c3d1ab3370a1c7d818adc78b71ab0b
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_35c3d1ab3370a1c7d818adc78b71ab0b
+DTSTART:20220723T100000
+DTEND:20220723T220000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T175816
+SEQUENCE:11278
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Device Lab - Device Lab Day One
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_7e6bea4c166a738214f7941ac2786dfd
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Device_Lab#_7e6bea4c166a738214f7941ac2786dfd
+DTSTART:20220722T100000
+DTEND:20220722T220000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T175816
+SEQUENCE:11278
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Games - Cybersecurity Trivia
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_17180ff8e393912bac9e5badf170cdbf
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_17180ff8e393912bac9e5badf170cdbf
+DTSTART:20220724T180000
+DTEND:20220724T190000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T182011
+SEQUENCE:11283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Games - Regulatory Bingo
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_7f06376523839390d09e8377798c2f89
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_7f06376523839390d09e8377798c2f89
+DTSTART:20220722T170000
+DTEND:20220722T180000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T182011
+SEQUENCE:11283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hack The Health: Games - Medical Trivia
+URL:https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_cb553c8a072dafec7991ad5495db738b
+UID:https://wiki.mch2022.org/Session:Hack_The_Health:_Games#_cb553c8a072dafec7991ad5495db738b
+DTSTART:20220724T190000
+DTEND:20220724T200000
+LOCATION:Village:HackTheHealth
+DTSTAMP:20220627T182011
+SEQUENCE:11283
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hardware Hacking for absolute beginner + CTF
+URL:https://wiki.mch2022.org/Session:Hardware_Hacking_for_absolute_beginner_%2B_CTF#_5076328e446ba7291372579ccce9dbc5
+UID:https://wiki.mch2022.org/Session:Hardware_Hacking_for_absolute_beginner_%2B_CTF#_5076328e446ba7291372579ccce9dbc5
+DTSTART:20220724T153000
+DTEND:20220724T170000
+LOCATION:Village:Hardware Hacking Area - HHA
+DTSTAMP:20220717T185335
+SEQUENCE:15042
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hardware hacking for absolute beginners + CTF
+URL:https://wiki.mch2022.org/Session:Hardware_hacking_for_absolute_beginners_%2B_CTF#_8b3fa86cb0b7aaed5298805d2df8cbbc
+UID:https://wiki.mch2022.org/Session:Hardware_hacking_for_absolute_beginners_%2B_CTF#_8b3fa86cb0b7aaed5298805d2df8cbbc
+DTSTART:20220725T140000
+DTEND:20220725T170000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T110532
+SEQUENCE:15368
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:HashiStack (Nomad\, Consul\, Vault)
+URL:https://wiki.mch2022.org/Session:HashiStack_(Nomad,_Consul,_Vault)#_e07b5e7cae43dd0d59c71827b5b6a5c5
+UID:https://wiki.mch2022.org/Session:HashiStack_(Nomad,_Consul,_Vault)#_e07b5e7cae43dd0d59c71827b5b6a5c5
+DTSTART:20220722T130000
+DTEND:20220722T160000
+LOCATION:Village:atypical
+DTSTAMP:20220718T074417
+SEQUENCE:15264
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Hot Chocolate Appreciation
+URL:https://wiki.mch2022.org/Session:Hot_Chocolate_Appreciation#_5dac2431b50771dde7c366e40e09a7cb
+UID:https://wiki.mch2022.org/Session:Hot_Chocolate_Appreciation#_5dac2431b50771dde7c366e40e09a7cb
+DTSTART:20220723T200000
+DTEND:20220723T213000
+DTSTAMP:20220622T000622
+SEQUENCE:10521
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:How much money can you steal with a quantum computer? - A quantitative analysis of the quantum risk to cryptocurrencies
+URL:https://wiki.mch2022.org/Session:How_much_money_can_you_steal_with_a_quantum_computer%3F_-_A_quantitative_analysis_of_the_quantum_risk_to_cryptocurrencies#_2a997375bdac27858c365375361e6354
+UID:https://wiki.mch2022.org/Session:How_much_money_can_you_steal_with_a_quantum_computer%3F_-_A_quantitative_analysis_of_the_quantum_risk_to_cryptocurrencies#_2a997375bdac27858c365375361e6354
+DTSTART:20220725T170000
+DTEND:20220725T180000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T110631
+SEQUENCE:15370
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Interfacing with your hardware: I2C
+URL:https://wiki.mch2022.org/Session:Interfacing_with_your_hardware:_I2C#_9d43682b7a79eaece566e3a192e1da0a
+UID:https://wiki.mch2022.org/Session:Interfacing_with_your_hardware:_I2C#_9d43682b7a79eaece566e3a192e1da0a
+DTSTART:20220723T170010
+DTEND:20220723T180010
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T111637
+SEQUENCE:15383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Interfacing with your hardware: SPI
+URL:https://wiki.mch2022.org/Session:Interfacing_with_your_hardware:_SPI#_1ed2b8c3edab11a0f7efa9a67df5093b
+UID:https://wiki.mch2022.org/Session:Interfacing_with_your_hardware:_SPI#_1ed2b8c3edab11a0f7efa9a67df5093b
+DTSTART:20220724T170010
+DTEND:20220724T180010
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T113041
+SEQUENCE:15390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Interfacing with your hardware: UART
+URL:https://wiki.mch2022.org/Session:Interfacing_with_your_hardware:_UART#_1ee78f919ae21fba808a71f38120fc71
+UID:https://wiki.mch2022.org/Session:Interfacing_with_your_hardware:_UART#_1ee78f919ae21fba808a71f38120fc71
+DTSTART:20220722T220010
+DTEND:20220722T230010
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T111701
+SEQUENCE:15384
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Introduction to GraphQL hacking
+URL:https://wiki.mch2022.org/Session:Introduction_to_GraphQL_hacking#_3ada4ae68e541450887379fa93fd2bbd
+UID:https://wiki.mch2022.org/Session:Introduction_to_GraphQL_hacking#_3ada4ae68e541450887379fa93fd2bbd
+DTSTART:20220722T190000
+DTEND:20220722T200000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T111418
+SEQUENCE:15381
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Kids/youth mentoring regulars' table
+URL:https://wiki.mch2022.org/Session:Kids/youth_mentoring_regulars%27_table#_f396be6effbb563b54d931e54ccd84d8
+UID:https://wiki.mch2022.org/Session:Kids/youth_mentoring_regulars%27_table#_f396be6effbb563b54d931e54ccd84d8
+DTSTART:20220725T100000
+DTEND:20220725T110000
+LOCATION:Village:Hardware Hacking Area - HHA
+DTSTAMP:20220716T074753
+SEQUENCE:14696
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Learn programming in Python
+URL:https://wiki.mch2022.org/Session:Learn_programming_in_Python#_5f4bbf7a87a9514a31cb7931288fe8de
+UID:https://wiki.mch2022.org/Session:Learn_programming_in_Python#_5f4bbf7a87a9514a31cb7931288fe8de
+DTSTART:20220724T130000
+DTEND:20220724T160000
+LOCATION:Village:atypical
+DTSTAMP:20220718T074429
+SEQUENCE:15265
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Mail Spoofing
+URL:https://wiki.mch2022.org/Session:Mail_Spoofing#_1b4e7a979f33b0a0b46f92b5addb22b5
+UID:https://wiki.mch2022.org/Session:Mail_Spoofing#_1b4e7a979f33b0a0b46f92b5addb22b5
+DTSTART:20220725T130000
+DTEND:20220725T160000
+LOCATION:Village:atypical
+DTSTAMP:20220718T074442
+SEQUENCE:15266
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Reverse engineering Minecraft to get world records
+URL:https://wiki.mch2022.org/Session:Reverse_engineering_Minecraft_to_get_world_records#_bf88a02afc893d217c5ef2caf2a7b7a8
+UID:https://wiki.mch2022.org/Session:Reverse_engineering_Minecraft_to_get_world_records#_bf88a02afc893d217c5ef2caf2a7b7a8
+DTSTART:20220725T180000
+DTEND:20220725T190000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T111543
+SEQUENCE:15382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Reverse engineering for beginners workshop
+URL:https://wiki.mch2022.org/Session:Reverse_engineering_for_beginners_workshop#_43f1efc4baea01b80b9539fd5f65a1a1
+UID:https://wiki.mch2022.org/Session:Reverse_engineering_for_beginners_workshop#_43f1efc4baea01b80b9539fd5f65a1a1
+DTSTART:20220723T110000
+DTEND:20220723T130000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T111826
+SEQUENCE:15385
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Rooting an Android phone with Magisk - Phones to root are available
+URL:https://wiki.mch2022.org/Session:Rooting_an_Android_phone_with_Magisk#_79b82af7d44b7d01556ff181d35cf2c1
+UID:https://wiki.mch2022.org/Session:Rooting_an_Android_phone_with_Magisk#_79b82af7d44b7d01556ff181d35cf2c1
+DTSTART:20220723T160000
+DTEND:20220723T173000
+LOCATION:Village:SHA512
+DTSTAMP:20220715T201805
+SEQUENCE:14659
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Rust Workshop
+URL:https://wiki.mch2022.org/Session:Rust_Workshop#_6cabb38eb60bb99adc5211f2fde181ec
+UID:https://wiki.mch2022.org/Session:Rust_Workshop#_6cabb38eb60bb99adc5211f2fde181ec
+DTSTART:20220723T150000
+DTEND:20220723T170000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T112743
+SEQUENCE:15388
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - Fighting link rot in solid data
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_142765c39b84db01ad3d27934f3a3388
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_142765c39b84db01ad3d27934f3a3388
+DTSTART:20220723T140000
+DTEND:20220723T150000
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - Funding 101: NLnet and Next Generation Internet
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_18a8c2bcb8d6f7b498c8e0919566b977
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_18a8c2bcb8d6f7b498c8e0919566b977
+DTSTART:20220724T113000
+DTEND:20220724T114500
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - Cool Linked Data - Live\, Immutable\, Open.
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_1dd7897350ca7f508e9d539d28ace26f
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_1dd7897350ca7f508e9d539d28ace26f
+DTSTART:20220724T130000
+DTEND:20220724T134500
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - Funding 101: NLnet and Next Generation Internet by Michiel Leenaars
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_277d50b1d5fa0fe089d676ee50a9d694
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_277d50b1d5fa0fe089d676ee50a9d694
+DTSTART:20220725T113000
+DTEND:20220725T114500
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - Linked Data at Kadaster
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_31240fb4cb0836405e3484b66d55703d
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_31240fb4cb0836405e3484b66d55703d
+DTSTART:20220724T120000
+DTEND:20220724T124500
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - inked Data & Common Ground	-
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_5938c5e8c14a96f0119091fe99f83351
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_5938c5e8c14a96f0119091fe99f83351
+DTSTART:20220724T140000
+DTEND:20220724T153000
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - IPFS by Will Scott
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6145fe62c3d3beeb5517d978f306d999
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6145fe62c3d3beeb5517d978f306d999
+DTSTART:20220725T120000
+DTEND:20220725T124500
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - Self Soverign Identity by Animo
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6d521ba175183cbcb943ecc68794805b
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_6d521ba175183cbcb943ecc68794805b
+DTSTART:20220725T130000
+DTEND:20220725T143000
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - Solid talk by Inrupt
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_9554957c6ab3eb7fdfb43e2a1908b076
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_9554957c6ab3eb7fdfb43e2a1908b076
+DTSTART:20220723T120000
+DTEND:20220723T130000
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - Data custodian\, identity and government by Conduction
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_d369a3497234fbee0988bb32c8a4d2f5
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_d369a3497234fbee0988bb32c8a4d2f5
+DTSTART:20220725T143000
+DTEND:20220725T160000
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - Solid talk by Digita
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_dd78f1fdbe52551b1c210f5058115b94
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_dd78f1fdbe52551b1c210f5058115b94
+DTSTART:20220723T130000
+DTEND:20220723T140000
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Solid\, Linked Data and Decentralized Web Meetup - Funding 101: NLnet and Next Generation Internet
+URL:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_e1302ad3327e75f16e7ae3429968f2f8
+UID:https://wiki.mch2022.org/Session:Solid,_Linked_Data_and_Decentralized_Web_Meetup#_e1302ad3327e75f16e7ae3429968f2f8
+DTSTART:20220723T113000
+DTEND:20220723T114500
+LOCATION:Village:HSNL
+DTSTAMP:20220718T072316
+SEQUENCE:15247
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Sunday 24th july 2:00PM
+URL:https://wiki.mch2022.org/Session:Sunday_24th_july_2:00PM#_c41547b15b9bb0b9fb6381f2bcacd828
+UID:https://wiki.mch2022.org/Session:Sunday_24th_july_2:00PM#_c41547b15b9bb0b9fb6381f2bcacd828
+DTSTART:20220724T140000
+DTEND:20220724T143000
+LOCATION:Village:1111101001 Nights
+DTSTAMP:20220718T123130
+SEQUENCE:15422
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:The Ethics Book Club
+URL:https://wiki.mch2022.org/Session:The_Ethics_Book_Club#_19198dc74adb87475633b2f82fd2048c
+UID:https://wiki.mch2022.org/Session:The_Ethics_Book_Club#_19198dc74adb87475633b2f82fd2048c
+DTSTART:20220723T150000
+DTEND:20220723T160000
+LOCATION:Village:80s Party
+DTSTAMP:20220718T080414
+SEQUENCE:15281
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:The Only Way is Ethics
+URL:https://wiki.mch2022.org/Session:The_Only_Way_is_Ethics#_9e422e4c5cf8920d887c7650311edd0e
+UID:https://wiki.mch2022.org/Session:The_Only_Way_is_Ethics#_9e422e4c5cf8920d887c7650311edd0e
+DTSTART:20220723T180000
+DTEND:20220723T190000
+LOCATION:Village:80s Party
+DTSTAMP:20220718T142753
+SEQUENCE:15492
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:The history and future of digital identity - An Identity R/Evolution
+URL:https://wiki.mch2022.org/Session:The_history_and_future_of_digital_identity_-_An_Identity_R/Evolution#_8985f6b59147e2efab1076e2c056fb36
+UID:https://wiki.mch2022.org/Session:The_history_and_future_of_digital_identity_-_An_Identity_R/Evolution#_8985f6b59147e2efab1076e2c056fb36
+DTSTART:20220723T140000
+DTEND:20220723T150000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T114007
+SEQUENCE:15395
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Trail Run
+URL:https://wiki.mch2022.org/Session:Trail_Run#_ab055b920cd075fe9d9aa58b05d39880
+UID:https://wiki.mch2022.org/Session:Trail_Run#_ab055b920cd075fe9d9aa58b05d39880
+DTSTART:20220725T090000
+DTEND:20220725T093000
+LOCATION:Village:80s Party
+DTSTAMP:20220712T061938
+SEQUENCE:13727
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Wardriver.uk - open source wardriving with the ESP32
+URL:https://wiki.mch2022.org/Session:Wardriver.uk_-_open_source_wardriving_with_the_ESP32#_a4f28630fc2f2c691819468ec635bc2e
+UID:https://wiki.mch2022.org/Session:Wardriver.uk_-_open_source_wardriving_with_the_ESP32#_a4f28630fc2f2c691819468ec635bc2e
+DTSTART:20220722T210000
+DTEND:20220722T220000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T113631
+SEQUENCE:15393
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:Who is who in Ancient Hebrew Poetry?
+URL:https://wiki.mch2022.org/Session:Who_is_who_in_Ancient_Hebrew_Poetry%3F#_4a1155c040bd281877026701f601d15c
+UID:https://wiki.mch2022.org/Session:Who_is_who_in_Ancient_Hebrew_Poetry%3F#_4a1155c040bd281877026701f601d15c
+DTSTART:20220723T180000
+DTEND:20220723T190000
+LOCATION:Village:Unlock The City
+DTSTAMP:20220718T114124
+SEQUENCE:15397
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:You shall not mass
+URL:https://wiki.mch2022.org/Session:You_shall_not_mass#_6217553b4d8ef3c0476ecbf74a973bbb
+UID:https://wiki.mch2022.org/Session:You_shall_not_mass#_6217553b4d8ef3c0476ecbf74a973bbb
+DTSTART:20220724T100000
+DTEND:20220724T103000
+LOCATION:Village:80s Party
+DTSTAMP:20220712T053305
+SEQUENCE:13701
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:athlETHICS sports event
+URL:https://wiki.mch2022.org/Session:athlETHICS_sports_event#_8faf68f77d55c481e2ba1f1891103290
+UID:https://wiki.mch2022.org/Session:athlETHICS_sports_event#_8faf68f77d55c481e2ba1f1891103290
+DTSTART:20220723T090000
+DTEND:20220723T093000
+LOCATION:Village:80s Party
+DTSTAMP:20220712T185524
+SEQUENCE:13964
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session:tRaining Cats and Dogs
+URL:https://wiki.mch2022.org/Session:tRaining_Cats_and_Dogs#_c4ac7b7ba083e3d26c5fd1b46a50e7ac
+UID:https://wiki.mch2022.org/Session:tRaining_Cats_and_Dogs#_c4ac7b7ba083e3d26c5fd1b46a50e7ac
+DTSTART:20220726T100000
+DTEND:20220726T110000
+LOCATION:Village:80s Party
+DTSTAMP:20220717T091147
+SEQUENCE:14896
+END:VEVENT
+END:VCALENDAR
