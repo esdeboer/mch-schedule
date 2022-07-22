@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><!-- Made with love by pretalx v2.2.0. --><schedule>
     <generator name="pretalx" version="2.2.0"/>
-    <version>ScheduleFromTheSwamp</version>
+    <version>ScheduleFromTheSwamp-2</version>
     <conference>
-        <acronym>mch2022</acronym>
+        <acronym>mch2021-2020</acronym>
         <title>MCH2022 with self organised sessions</title>
         <start>2022-07-22</start>
         <end>2022-07-26</end>
